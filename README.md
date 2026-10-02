@@ -6,7 +6,7 @@ The companion presentation is available at [data-sci-final.lovable.app](https://
 
 ## Result
 
-The included held-out predictions score **67.81% top-1 accuracy** across **118,345** test sequences. The companion presentation also reports top-3 and top-5 accuracy for the trained model.
+The included held-out predictions score **71.81% top-1 accuracy** across **118,345** test sequences. The companion presentation also reports top-3 and top-5 accuracy for the trained model.
 
 ## Model
 
