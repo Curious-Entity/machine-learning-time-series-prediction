@@ -31,6 +31,8 @@ python evaluate.py
 
 # Retrain using the prepared chronological splits.
 python train.py --epochs 10
+
+# The training time can take between 30 minutes to a few hours, please be patient.
 ```
 
 ## Make a Prediction
