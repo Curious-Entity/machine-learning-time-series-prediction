@@ -72,7 +72,3 @@ If you use LSApp or this derived dataset, please cite its associated publication
   year    = {2021}
 }
 ```
-
-## Data Note
-
-The prepared arrays are derived app-usage behavior data. Confirm that you have permission to publish the source data and that it contains no personal or identifying information before making the repository public.
