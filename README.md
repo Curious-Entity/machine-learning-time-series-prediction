@@ -1,4 +1,4 @@
-# Smartphone Next-App Prediction using Lort Short Term Memory (LSTM) Neural Network
+# Smartphone Next-App Prediction using Long Short Term Memory (LSTM) Neural Network
 
 An end-to-end machine-learning project that predicts the next app a person will open from their recent app-usage sequence. The model learns from windows of 30 prior app events and returns a ranked list of likely next apps.
 
