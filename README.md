@@ -58,6 +58,21 @@ The script prints the top five likely next apps and their probabilities.
 
 `.npy`, `.keras`, and `.pkl` files are binary formats, so GitHub cannot render their raw contents as text. This repository includes [MODEL_SUMMARY.md](MODEL_SUMMARY.md) and JSON configuration files for browser-readable documentation. In VS Code, install the recommended extensions to inspect `.npy` and `.pkl` files directly.
 
+## Data Source and Citation
+
+The prepared sequences in this project were derived from [LSApp: Large dataset of Sequential mobile App usage](https://github.com/aliannejadi/LSApp). LSApp contains consented sequential app-usage events collected from 292 participants, including timestamps, app names, event types, session IDs, and anonymized user IDs. This project preprocesses those events into chronological 30-app windows for next-app prediction.
+
+If you use LSApp or this derived dataset, please cite its associated publication:
+
+```bibtex
+@article{AliannejadiTOIS21,
+  author  = {Mohammad Aliannejadi and Hamed Zamani and Fabio Crestani and W. Bruce Croft},
+  title   = {Context-Aware Target Apps Selection and Recommendation for Enhancing Personal Mobile Assistants},
+  journal = {ACM Transactions on Information Systems},
+  year    = {2021}
+}
+```
+
 ## Data Note
 
 The prepared arrays are derived app-usage behavior data. Confirm that you have permission to publish the source data and that it contains no personal or identifying information before making the repository public.
