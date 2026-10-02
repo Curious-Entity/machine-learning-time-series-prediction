@@ -1,6 +1,6 @@
 # Smartphone Next-App Prediction using Long Short Term Memory (LSTM) Neural Network
 
-The companion presentation with infographics and the project walkthrough is available at [data-sci-final.lovable.app](https://data-sci-final.lovable.app/).
+The companion presentation with infographics and the project walkthrough is available at [CLICK HERE](https://data-sci-final.lovable.app/).
 
 An end-to-end machine-learning project that predicts the next app a person will open from their recent app-usage sequence. The model learns from windows of 30 prior app events and returns a ranked list of likely next apps.
 
